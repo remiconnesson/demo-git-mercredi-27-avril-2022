@@ -1,7 +1,7 @@
 une ligne ajouté dans l'autre branche en début de fichier
 newline
 deuxieme line
-troisième ligne
+Je modifie la troisième ligne
 quatrième ligne
 cinquième ligne
 une sixieme ligne après cration de la branche
